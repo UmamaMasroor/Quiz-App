@@ -71,22 +71,14 @@ const questions = [
             {text: "None of the above", correct: false},
         ]
     },
-    {
-        question: "Inside which HTML element do we put the JavaScript?" ,
-        answers: [
-            {text: "<js>", correct: false},
-            {text: "<script>", correct: true},
-            {text: "<scripting>", correct: false},
-            {text: "<JavaScript>", correct: false},
-        ]
-    },
-    {
-        question: "Inside which HTML element do we put the JavaScript?" ,
-        answers: [
-            {text: "<js>", correct: false},
-            {text: "<script>", correct: true},
-            {text: "<scripting>", correct: false},
-            {text: "<JavaScript>", correct: false},
-        ]
-    },
+    // {
+    //     question: "What are variables used for in JavaScript programs?" ,
+    //     answers: [
+    //         {text: "Storing n$#bers) dates) or other val$es", correct: true},
+    //         {text: "varying randomly", correct: false},
+    //         {text: "Causing high-school algebra flashbacks", correct: false},
+    //         {text: "None of the above", correct: false},
+    //     ]
+    // },
+   
 ]
